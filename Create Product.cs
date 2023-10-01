@@ -1,2 +1,3 @@
-class public
+public class Employee
+  
   
